@@ -11,8 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolioin1597.vercel.app](https://portfolioin1597.vercel.app)
 
 - 📫 How to reach me **siamtechofficial1597@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UoQD2hZjcwwUwxoyi0DK6yzADhzN0npQ/view?usp=sharing](https://drive.google.com/file/d/1UoQD2hZjcwwUwxoyi0DK6yzADhzN0npQ/view?usp=sharing)
+ 
 
 - ⚡ Fun fact **I think I am funny**
 
