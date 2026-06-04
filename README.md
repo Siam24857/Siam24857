@@ -3,41 +3,37 @@
   <img src="https://github.com/Siam24857/Siam24857/blob/main/ChatGPT%20Image%20Jun%204%2C%202026%2C%2010_58_27%20PM.png" alt="Banner" width="100%" />
 </p>
 
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
-</p>
-
 <!-- TYPING EFFECT -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheikh+Siam;Full-stack+Developer+from+Bangladesh;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
 </h1>
-
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
-</p>
 
 <!-- ANIMATED CODING GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="600" alt="Coding" />
 </p>
 
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
-</p>
-
 <!-- PROFILE BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siam24857&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/siam24857?label=FOLLOWERS&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/siam24857?label=STARS&style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=siam24857&label=✨%20PROFILE%20VIEWS%20✨&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/siam24857?label=⭐%20FOLLOWERS%20⭐&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/siam24857?label=🌟%20STARS%20🌟&style=for-the-badge&color=yellow" />
 </p>
 
-<!-- DECORATIVE LINE ROUTE -->
+---
+
+## 🎯 ASPIRING FULL-STACK DEVELOPER
+
+> ✨ Aspiring Full-Stack Developer with strong proficiency in React.js, Next.js, Node.js, Express.js, and MongoDB, demonstrated through the development of responsive, secure, and database-driven web applications. Passionate about solving real-world problems, building scalable solutions, and contributing to high-impact products while continuously advancing technical expertise. ✨
+
+---
+
+## 🔥 GITHUB STREAK
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=siam24857&theme=radical&hide_border=true&border_radius=6" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -45,23 +41,12 @@
 ## 📊 LIVE STATUS
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siam24857&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=siam24857&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-</p>
-
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam24857&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siam24857&theme=radical" width="48%" />
 </p>
 
-<!-- DECORATIVE LINE ROUTE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siam24857&theme=radical" width="95%" />
 </p>
 
 ---
@@ -83,22 +68,12 @@
   <img src="https://skillicons.dev/icons?i=js,git,github,vscode,postman" />
 </p>
 
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
-</p>
-
 ---
 
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siam24857&theme=radical&hide_border=true&area=true" width="95%" />
-</p>
-
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
 ---
@@ -115,13 +90,8 @@
 
 <p align="center">
   <a href="https://portfolioin1597.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<!-- DECORATIVE LINE ROUTE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
 ---
@@ -129,9 +99,9 @@
 ## 💬 ABOUT ME
 
 ```yaml
-name: Sheikh Siam
-role: Full-stack Developer
-location: Bangladesh
-fun_fact: "I think I am funny 😄"
-email: siamtechofficial1597@gmail.com
-current_focus: Building scalable MERN applications
+⚡ name: Sheikh Siam
+🎯 role: Full-stack Developer
+📍 location: Bangladesh
+😄 fun_fact: "I think I am funny"
+📧 email: siamtechofficial1597@gmail.com
+🚀 current_focus: Building scalable MERN applications
