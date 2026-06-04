@@ -1,145 +1,137 @@
-<!-- FULL WIDTH BANNER -->
+<!-- FULL-WIDTH BANNER -->
 <p align="center">
   <img src="https://github.com/Siam24857/Siam24857/blob/main/ChatGPT%20Image%20Jun%204%2C%202026%2C%2010_58_27%20PM.png" alt="Banner" width="100%" />
 </p>
 
-<!-- NEW STREAK STATS - DEMOLAB VERSION -->
+<!-- DECORATIVE LINE ROUTE -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=siam24857&theme=dark&hide_border=false&border_radius=5" width="55%" alt="GitHub Streak" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=✦+Full-Stack+Developer+✦;✦+Problem+Solver+✦;✦+Tech+Enthusiast+✦" alt="Typing SVG" />
-</p>
-
----
-
+<!-- TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /> 
-  Hi 👋, I'm Sheikh Siam
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sheikh+Siam;Full-stack+Developer+from+Bangladesh;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  🌟 A passionate Full-stack Developer from Bangladesh 🌟
-</h3>
-
-<br/>
-
+<!-- DECORATIVE LINE ROUTE -->
 <p align="center">
-  <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
-<p align="left">
-  🔍 <strong>Profile Views</strong><br/>
-  <img src="https://komarev.com/ghpvc/?username=siam24857&label=Profile%20views&color=0e75b6&style=flat" alt="siam24857" />
+<!-- ANIMATED CODING GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="600" alt="Coding" />
 </p>
 
-<p align="left">
-  🐦 <strong>Twitter</strong><br/>
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
-<br clear="right"/>
+<!-- PROFILE BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siam24857&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/siam24857?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/siam24857?label=STARS&style=for-the-badge&color=yellow" />
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+</p>
 
 ---
 
-## 📌 QUICK INFO
+## 📊 LIVE STATUS
 
-<table>
-  <tr>
-    <td>📁 <strong>Projects</strong></td>
-    <td><a href="https://portfolioin1597.vercel.app">https://portfolioin1597.vercel.app</a></td>
-  </tr>
-  <tr>
-    <td>📧 <strong>Email</strong></td>
-    <td><strong>siamtechofficial1597@gmail.com</strong></td>
-  </tr>
-  <tr>
-    <td>📄 <strong>Resume</strong></td>
-    <td><a href="https://drive.google.com/file/d/1UoQD2hZjcwwUwxoyi0DK6yzADhzN0npQ/view?usp=sharing">Know about my experiences</a></td>
-  </tr>
-  <tr>
-    <td>⚡ <strong>Fun Fact</strong></td>
-    <td>I think I am funny 😄</td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siam24857&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=siam24857&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam24857&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siam24857&theme=radical" width="48%" />
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+</p>
+
+---
+
+## 🛠️ TECH STACK SHOWCASE
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,figma" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,git,github,vscode,postman" />
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+</p>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siam24857&theme=radical&hide_border=true&area=true" width="95%" />
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
+</p>
 
 ---
 
 ## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://linkedin.com/in/sheikh-siam" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh-siam" height="40" width="50" />
+  <a href="https://linkedin.com/in/sheikh-siam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/sheikh siam"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://dribbble.com/sheikh siam"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/siam tech official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.topcoder.com/members/5781"><img src="https://img.shields.io/badge/TopCoder-29A7E1?style=for-the-badge&logo=topcoder&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://portfolioin1597.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://fb.com/sheikh siam" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh siam" height="40" width="50" />
-  </a>
-  <a href="https://dribbble.com/sheikh siam" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sheikh siam" height="40" width="50" />
-  </a>
-  <a href="https://www.youtube.com/c/siam tech official" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="siam tech official" height="40" width="50" />
-  </a>
-  <a href="https://www.topcoder.com/members/5781" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="5781" height="40" width="50" />
-  </a>
+</p>
+
+<!-- DECORATIVE LINE ROUTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2000&pause=100&color=00F7FF&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Route Line" />
 </p>
 
 ---
 
-## 🛠️ LANGUAGES & TOOLS
+## 💬 ABOUT ME
 
-<p align="center">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-</p>
-
----
-
-## 📊 GITHUB STATISTICS
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siam24857&show_icons=true&locale=en&layout=compact" alt="siam24857" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=siam24857&show_icons=true&locale=en" alt="siam24857" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=siam24857&" alt="siam24857" />
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>✦ Code. Create. Innovate. ✦</i>
-</p>
+```yaml
+name: Sheikh Siam
+role: Full-stack Developer
+location: Bangladesh
+fun_fact: "I think I am funny 😄"
+email: siamtechofficial1597@gmail.com
+current_focus: Building scalable MERN applications
