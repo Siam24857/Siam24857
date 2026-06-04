@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Siam24857&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siam24857&layout=compact)
 
 ## 💻 Tech Stack
 
