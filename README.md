@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sheikh Siam 👋
 
-<!--
-**Siam24857/Siam24857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Streak](https://streak-stats.demolab.com?user=Siam24857&theme=tokyonight)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siam24857&show_icons=true&theme=tokyonight)
+
+## 💻 Tech Stack
+
+HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB
