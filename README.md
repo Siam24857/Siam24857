@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siam24857&show_icons=true&theme=tokyonight)
+![Siam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siam24857&show_icons=true&count_private=true)
 
 ## 💻 Tech Stack
 
