@@ -16,7 +16,7 @@
 
 <!-- HEADLINE -->
 <h1 align="center">Hi 👋, I'm Sheikh Siam</h1>
-<h3 align="center">Full-Stack Developer · UI/UX Designer · MERN Stack Expert from Bangladesh 🇧🇩</h3>
+<h3 align="center">Full-Stack Developer from Bangladesh 🇧🇩</h3>
 
 <br/>
 
