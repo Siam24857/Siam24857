@@ -154,18 +154,7 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
 
 <br/>
 
----
 
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siam24857&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
-</p>
-
-<br/>
-
----
 
 <!-- DEV QUOTE -->
 ## 💭 Dev Philosophy
