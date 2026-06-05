@@ -22,7 +22,7 @@
 
 <!-- TYPING SVG — using herokuapp (renders on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;+%7C+Next.js+%7C+%E2%9C%A8;Clean+UI+%C2%B7+Smooth+Animations+%C2%B7+Real+UX;Let%27s+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;+%7C+Next.js+%7C+%E2%9C%A8;Cl+%C2%B7+Smooth+Animations+%C2%B7;Let%27" />
 </p>
 
 <br/>
