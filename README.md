@@ -4,7 +4,7 @@
 
 <!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,ffa500&height=140&section=header&text=Sheikh+Siam&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9&descSize=16&descAlignY=78&descColor=ffffff99" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,ffa500&height=140&section=header&text=Sheikh+Siam&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack+Developer+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9&descSize=16&descAlignY=78&descColor=ffffff99" width="100%" />
 </p>
 
 <!-- BANNER -->
@@ -20,9 +20,9 @@
 
 <br/>
 
-<!-- TYPING SVG — using herokuapp (renders on GitHub) -->
+<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;+%7C+%7C+%E2%9C%A8;Cl+%C2%B7+%C2%B7;Let%27" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -42,22 +42,20 @@
 
 <!-- ABOUT ME -->
 ## 🧠 About Me
-I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy building responsive, modern, and user-friendly web applications using JavaScript, React, Node.js, Express.js, and MongoDB. I'm continuously learning new technologies and improving my development skills to create high-quality digital experiences.
 
 <table align="center" border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td width="55%" valign="top">
 
 ```yaml
-🧑‍💻 Name        : Sheikh Siam
-🎯 Role        : Full-Stack Developer & UI/UX Designer
-🌍 Location    : Bangladesh 🇧🇩
-📧 Email       : siamtechofficial1597@gmail.com
-🔭 Focus       : Scalable MERN + Next.js Applications
-🎨 Passion     : Clean UI · Smooth Animations · Real UX
-💡 Expertise   : React · Next.js · Node.js · MongoDB
-⚡ Fun Fact    : I turn coffee ☕ into pixel-perfect code
-🌐 Portfolio   : portfolioin1597.vercel.app
+🧑‍💻 Name      : Sheikh Siam
+🎯 Role      : Full-Stack Developer
+🌍 Location  : Bangladesh 🇧🇩
+📧 Email     : siamtechofficial1597@gmail.com
+🔭 Focus     : Next.js · React · Node.js
+💡 Expertise : JavaScript · React · Next.js
+⚡ Fun Fact  : I turn coffee ☕ into pixel-perfect code
+🌐 Portfolio : portfolioin1597.vercel.app
 ```
 
 </td>
@@ -76,11 +74,11 @@ I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy buil
 
 <div align="center">
 
-| 🌐 Web Development | 📱 App Development | 🎨 UI / UX Design | ☁️ Deployment |
+| 🌐 Web Development | 🔧 Backend | 🗄️ Database | ☁️ Deployment |
 |:---:|:---:|:---:|:---:|
-| React · Next.js · Vue | React Native · Expo | Figma · Framer | Vercel · AWS |
-| Node.js · Express | REST APIs · GraphQL | Motion Design | Docker · CI/CD |
-| MongoDB · Firebase | Real-time Apps | Design Systems | 99.9% Uptime |
+| React · Next.js | Node.js · Express | MongoDB | Vercel |
+| HTML · CSS · Tailwind | REST APIs | Firebase | Git · GitHub |
+| JavaScript · TypeScript | Server-side Rendering | Real-time Apps | CI/CD |
 
 </div>
 
@@ -108,17 +106,17 @@ I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy buil
 
 <p align="center"><b>— Frontend —</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,figma&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7&theme=dark" />
 </p>
 
 <p align="center"><b>— Backend & Database —</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=7&theme=dark" />
 </p>
 
 <p align="center"><b>— Tools & Workflow —</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=7&theme=dark" />
 </p>
 
 <br/>
@@ -128,7 +126,6 @@ I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy buil
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
-<!-- Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam24857&theme=radical" width="96%" alt="Profile Details" />
 </p>
@@ -148,9 +145,7 @@ I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy buil
 
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam24857&theme=redical&hide_border=true&area=true&color=ff6b6b&line=ffa500&point=ffffff&area_color=ff6b6b&bg_color=0d0d1a" width="96%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam24857&theme=redical&hide_border=true&area=true&color=ff6b6b&line=ffa500&point=ffffff&area_color=ff6b6b&bg_color=0d0d1a" width="96%" alt="Activity Graph" />
 </p>
 
 <br/>
