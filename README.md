@@ -175,15 +175,15 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://fb.com/sheikhsiam">
+  <a href="https://www.facebook.com/profile.php?id=61577709741448">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://dribbble.com/sheikhsiam">
+  <a href="https://dribbble.com/siam-tech-official">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/c/siamtechofficial">
+  <a href="https://www.youtube.com/@SiamTechOfficial1597">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
