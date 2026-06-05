@@ -110,7 +110,7 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
 
 <p align="center"><b>— Frontend —</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&perline=7&theme=dark" />
 </p>
 
 <p align="center"><b>— Backend & Database —</b></p>
@@ -120,7 +120,7 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
 
 <p align="center"><b>— Tools & Workflow —</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=7&theme=dark" />
 </p>
 
 <br/>
