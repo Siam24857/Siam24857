@@ -47,13 +47,17 @@
 <tr>
 <td width="55%" valign="top">
 
+<p>
+I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Bangladesh. I enjoy building responsive, modern, and user-friendly web applications using <strong>JavaScript, React, Node.js, Express.js, and MongoDB</strong>. I'm continuously learning new technologies and improving my development skills to create high-quality digital experiences.
+</p>
+
 ```yaml
 🧑‍💻 Name      : Sheikh Siam
 🎯 Role      : Full-Stack Developer
 🌍 Location  : Bangladesh 🇧🇩
 📧 Email     : siamtechofficial1597@gmail.com
 🔭 Focus     : Next.js · React · Node.js
-💡 Expertise : JavaScript · React · Next.js
+💡 Learning  : JavaScript · React · Next.js
 ⚡ Fun Fact  : I turn coffee ☕ into pixel-perfect code
 🌐 Portfolio : portfolioin1597.vercel.app
 ```
@@ -91,9 +95,9 @@
 
 <div align="center">
 
-| 🚀 120+ | ⭐ 95% | 💼 10+ | 🤝 40+ |
+| 🚀 30+ | 🌱 1 Year | 💻 Open Source | 🎯 Growing |
 |:---:|:---:|:---:|:---:|
-| **Projects Shipped** | **Client Satisfaction** | **Years Experience** | **Happy Clients** |
+| **Projects Built** | **Coding Journey** | **Contributor** | **Every Day** |
 
 </div>
 
@@ -156,7 +160,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siam24857&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Siam24857&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 </p>
 
 <br/>
