@@ -42,6 +42,7 @@
 
 <!-- ABOUT ME -->
 ## 🧠 About Me
+I'm Sheikh Siam, a passionate Full-Stack Developer from Bangladesh. I enjoy building responsive, modern, and user-friendly web applications using JavaScript, React, Node.js, Express.js, and MongoDB. I'm continuously learning new technologies and improving my development skills to create high-quality digital experiences.
 
 <table align="center" border="0" cellspacing="0" cellpadding="16">
 <tr>
