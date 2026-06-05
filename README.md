@@ -140,8 +140,8 @@
 
 <!-- Streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Siam24857&theme=radical&hide_border=true&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=888888&background=0d0d1a&stroke=ff6b6b20" width="70%" alt="GitHub Streak" />
+  <a href="https://streak-stats.demolab.com?user=Siam24857">
+    <img src="https://streak-stats.demolab.com?user=Siam24857" width="70%" alt="GitHub Streak" />
   </a>
 </p>
 
