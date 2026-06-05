@@ -63,7 +63,7 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
 ```
 
 </td>
-<td width="75%" align="center" valign="middle">
+<td width="100%" hight="100%" align="center" valign="middle">
   <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="280" alt="Coding GIF" />
 </td>
 </tr>
