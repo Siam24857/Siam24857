@@ -2,6 +2,11 @@
      SHEIKH SIAM — GitHub Profile README
      ============================================================ -->
 
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,ffa500&height=140&section=header&text=Sheikh+Siam&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9&descSize=16&descAlignY=78&descColor=ffffff99" width="100%" />
+</p>
+
 <!-- BANNER -->
 <p align="center">
   <img src="https://github.com/Siam24857/Siam24857/blob/main/ChatGPT%20Image%20Jun%204%2C%202026%2C%2010_58_27%20PM.png" alt="Banner" width="100%" />
@@ -11,7 +16,14 @@
 
 <!-- HEADLINE -->
 <h1 align="center">Hi 👋, I'm Sheikh Siam</h1>
-<h3 align="center">Full-Stack Developer & UI/UX Designer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Full-Stack Developer · UI/UX Designer · MERN Stack Expert from Bangladesh 🇧🇩</h3>
+
+<br/>
+
+<!-- TYPING SVG — using herokuapp (renders on GitHub) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+React+Native;Turning+ideas+into+beautiful+products+%E2%9C%A8;Clean+UI+%C2%B7+Smooth+Animations+%C2%B7+Real+UX;Let%27s+build+something+amazing+together!" />
+</p>
 
 <br/>
 
@@ -42,6 +54,7 @@
 📧 Email       : siamtechofficial1597@gmail.com
 🔭 Focus       : Scalable MERN + Next.js Applications
 🎨 Passion     : Clean UI · Smooth Animations · Real UX
+💡 Expertise   : React · Next.js · Node.js · MongoDB
 ⚡ Fun Fact    : I turn coffee ☕ into pixel-perfect code
 🌐 Portfolio   : portfolioin1597.vercel.app
 ```
@@ -89,46 +102,54 @@
 
 ---
 
-<!-- GITHUB STREAK ONLY -->
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<p align="center"><b>— Frontend —</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,figma&perline=9&theme=dark" />
+</p>
+
+<p align="center"><b>— Backend & Database —</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=9&theme=dark" />
+</p>
+
+<p align="center"><b>— Tools & Workflow —</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker&perline=9&theme=dark" />
+</p>
+
+<br/>
+
+---
+
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siam24857&theme=radical" width="96%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siam24857&theme=radical" width="49%" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siam24857&theme=radical" width="49%" alt="Stats" />
+</p>
+
+<!-- Streak -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Siam24857&theme=radical&hide_border=true&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b&sideLabels=ff6b6b&dates=888888&background=0d0d1a&stroke=ff6b6b20" width="70%" alt="GitHub Streak" />
   </a>
 </p>
 
-<br/>
-
----
-
-<!-- TECH STACK -->
-## 🛠️ Tech Stack
-
-<p align="center"><b>Frontend</b></p>
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,figma&perline=7&theme=dark" />
-</p>
-
-<p align="center"><b>Backend & Database</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=7&theme=dark" />
-</p>
-
-<p align="center"><b>Tools & Workflow</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,git,github,vscode,postman,docker&perline=7&theme=dark" />
-</p>
-
-<br/>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam24857&theme=redical&hide_border=true&area=true&color=ff6b6b&line=ffa500&point=ffffff&area_color=ff6b6b&bg_color=0d0d1a" width="96%" alt="Activity Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siam24857&theme=redical&hide_border=true&area=true&color=ff6b6b&line=ffa500&point=ffffff&area_color=ff6b6b&bg_color=0d0d1a" width="96%" alt="Activity Graph" />
+  </a>
 </p>
 
 <br/>
@@ -194,5 +215,5 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,ffa500&height=120&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,ffa500&height=130&section=footer&text=Thanks+for+visiting!+%E2%AD%90+Drop+a+star+if+you+like+my+work!&fontSize=16&fontColor=ffffff&fontAlignY=70" width="100%" />
 </p>
