@@ -82,7 +82,7 @@ I'm <strong>Sheikh Siam</strong>, a passionate Full-Stack Developer from Banglad
 |:---:|:---:|:---:|:---:|
 | React · Next.js | Node.js · Express | MongoDB | Vercel |
 | HTML · CSS · Tailwind | REST APIs | Firebase | Git · GitHub |
-| JavaScript · TypeScript | Server-side Rendering | Real-time Apps | CI/CD |
+| JavaScript  | Server-side Rendering | 
 
 </div>
 
