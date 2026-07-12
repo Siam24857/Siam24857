@@ -9,7 +9,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/Siam24857/Siam24857/blob/main/ChatGPT%20Image%20Jun%204%2C%202026%2C%2010_58_27%20PM.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Siam24857/Siam24857/blob/main/ChatGPT%20Image%20Jul%2013,%202026,%2012_19_50%20AM.png?raw=true" alt="Banner" width="100%" />
 </p>
 
 <br/>
